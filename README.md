@@ -1,13 +1,16 @@
-### Hi, I'm Ismael 👋
-CS student • Tech Lead at GDG • Git & Web Dev in training 💻
+### ★ Hey, I'm Ismael !
+➤ CS and Engineering student @ Augustana College 
+➤ Tech Lead · GDG @Augie
+➤ love to dive into new tools, ideas & technologies
 
-- 🧠 Currently learning **Git**, **Web Development**, and **Open Source workflows**
-- ⚙️ Languages: Python, Java, HTML/CSS/JS
-- 🌱 Building my first projects with GitHub & teamwork
-- 🚀 Passionate about code quality and project architecture
-- 💬 Ask me about anything dev-related!
-- 📫 Reach me: ismaelotmani@email.com
+⚙ Currently Developing
+- ✦ Building strong foundations in **Web Development** (HTML, CSS, JS)
+- ✦ Discovering Backend Development
 
+### 💭 Connect with me
+- ➜  Email: [ismael2006otmani@gmail.com](mailto:ismael2006otmani@gmail.com)
+- ➜  LinkedIn: [linkedin.com/in/ismael-otmani](https://www.linkedin.com/in/ismael-otmani/)
+- ➜  Instagram : [@the_ismael__](https://www.instagram.com/the_ismael__/?hl=en)
 ---
 
 ### 🔧 Tools I Use
